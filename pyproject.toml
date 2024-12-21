@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-load-diffusion-model-to-muti-gpus"
+description = "NODES: OverrideLoadedDiffusionDevice.\nI happen to have two graphics cards, and I want to load models into another graphics card in Comfyui, so I designed this small node."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/ptmaster/ComfyUI-Load-Diffusion-Model-to-Muti-GPUs"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Load-Diffusion-Model-to-Muti-GPUs"
+Icon = ""
